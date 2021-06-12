@@ -11,6 +11,6 @@ Louise has the following criteria:
 Theater Campaigns have shown success:
 ![ParentCategoryOutcomes](Resources/ParentCategoryOutcomes.png)
 
-Louise should consider a launch in the June timeline:
+Louise should consider a launch in the May timeline:
 ![OutcomesBasedOnLaunchDate](Resources/OutcomesBasedOnLaunchDate.png)
 
